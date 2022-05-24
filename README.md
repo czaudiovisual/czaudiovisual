@@ -13,12 +13,12 @@ Full-Stack Web Developer with experience in React, Ruby, Ruby on Rails, and Java
 
 ### 📬 Get in Touch
 
-- [LinkedIn:] linkedin.com/in/czaudiovisual
-- [GitHub:] github.com/czaudiovisual
-- [Instagram:] instagram.com/czaudiovisual
-- [Twitter:] twitter.com/czaudiovisual
-- [Site:] christianbermeo.me
-- [E-mail:] christianfbermeo@gmail.com
+- LinkedIn: [linkedin.com/in/czaudiovisual](http://linkedin.com/in/czaudiovisual)
+- GitHub: [github.com/czaudiovisual/](https://github.com/czaudiovisual/)
+- Instagram: [instagram.com/czaudiovisual/](https://instagram.com/czaudiovisual/)
+- Twitter: [twitter.com/czaudiovisual](https://twitter.com/czaudiovisual)
+- Site: [christianbermeo.me/](https://christianbermeo.me/)
+- E-mail: [christianfbermeo@gmail.com](christianfbermeo@gmail.com)
 
 ### Skills
 
