@@ -1,12 +1,12 @@
 Hi 👋 My name is Christian Bermeo
 =================================
 
-Junior Fullstack Software Developer
+Fullstack Software Developer
 -----------------------------------
 
-Full-Stack Web Developer with experience in React, Ruby, Ruby on Rails, and JavaScript-based programming with a background in Photography and Filmmaking. Strong skills in completing tasks under pressure, meeting challenging deadlines, and delivering quality products to the client with a user experience in mind.
+Full-Stack Software Developer with experience in React, Ruby, Ruby on Rails, and JavaScript-based programming with a background in Photography and Filmmaking. Strong skills in completing tasks under pressure, meeting challenging deadlines, and delivering quality products to the client with a user experience in mind.
 
-* 🌍  I'm based in Fort Laudardale, FL
+* 🌍  I'm based in Deerfield Beach, FL
 * 🎓  Recent grad from Flatiron School Software Engineering Bootcamp
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborate on any projects
